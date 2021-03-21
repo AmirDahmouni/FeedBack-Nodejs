@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "express_feedback",
+  "db": "mongodb://localhost/feedback",
+  "port": "3900",
+  "requiresAuth": true
+}
